@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^4.0.0",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "tern-node-express": "^0.4.0"
   }
 }
